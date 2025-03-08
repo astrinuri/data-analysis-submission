@@ -25,7 +25,7 @@ streamlit run dashboard/dashboard.py
 ```
 
 ## Online Demo
-[https://swardanasuta-data-analysis-submission.streamlit.app](https://astrini-data-analysis-submission.streamlit.app/)
+[https://astrini-data-analysis-submission.streamlit.app/](https://astrini-data-analysis-submission.streamlit.app/)
 
 Cara menjalankan dashboard 
 klik pada link berikut https://astrini-data-analysis-submission.streamlit.app/
